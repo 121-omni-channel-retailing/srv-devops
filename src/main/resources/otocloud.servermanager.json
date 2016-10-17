@@ -1,0 +1,10 @@
+{
+  "main": "otocloud.servermanager.ServerManagerVerticle",
+  "options":{
+  		"config":{
+  			"needStartWebServer":true,
+  			"portOfWebService":8901,
+  			"nameOfWebServer":"otocloud.servermanager.webserver"
+  		}
+  }
+}
